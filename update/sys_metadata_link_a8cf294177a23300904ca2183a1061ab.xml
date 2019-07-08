@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c86be98d77623300904ca2183a1061fe</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_cloud_service_account">
+    <cmdb_ci_cloud_service_account action="INSERT_OR_UPDATE">
+        <account_id>884c342b-68de-4e66-9f8d-7898b653c3b6</account_id>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <datacenter_discovery_status>2019-07-08 13:18:27: Completed....Reload this form to see an updated datacenter list.</datacenter_discovery_status>
+        <datacenter_type>cmdb_ci_vcenter_datacenter</datacenter_type>
+        <datacenter_url>https://10.198.1.13:443/sdk</datacenter_url>
+        <delivery_date/>
+        <department/>
+        <discovery_credentials display_value="vSphereCreds">9f0be98d77623300904ca2183a1061e6</discovery_credentials>
+        <discovery_source>ServiceNow</discovery_source>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <fault_count>0</fault_count>
+        <first_discovered>2019-07-08 07:48:27</first_discovered>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_master_account>false</is_master_account>
+        <is_validated>true</is_validated>
+        <justification/>
+        <last_discovered>2019-07-08 07:51:24</last_discovered>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>vCenter ServiceAccount@10.198.1.13</name>
+        <object_id>884c342b-68de-4e66-9f8d-7898b653c3b6</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <parent_account/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <server/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_cloud_service_account</sys_class_name>
+        <sys_class_path>/!!/!)/#7</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 07:48:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c86be98d77623300904ca2183a1061fe</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 07:49:45</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor/>
+        <warranty_expiration/>
+    </cmdb_ci_cloud_service_account>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 08:06:28</sys_created_on>
+        <sys_id>a8cf294177a23300904ca2183a1061ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vCenter ServiceAccount@10.198.1.13</sys_name>
+        <sys_package display_value="vSphereAutomationData" source="sn_vspheretest">32ee690177a23300904ca2183a106135</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vSphereAutomationData">32ee690177a23300904ca2183a106135</sys_scope>
+        <sys_update_name>sys_metadata_link_a8cf294177a23300904ca2183a1061ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 08:06:28</sys_updated_on>
+        <tablename>cmdb_ci_cloud_service_account</tablename>
+    </sys_metadata_link>
+</record_update>
