@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>22e412cd77263300904ca2183a1061ac</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ssh_private_key_credentials">
+    <ssh_private_key_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <classification>ssh</classification>
+        <mid_list/>
+        <name>vSphereTerraform</name>
+        <order>100</order>
+        <password>u21yKNGOKSwuQAy/GFvV7Q==</password>
+        <privacy_key/>
+        <privacy_protocol/>
+        <ssh_passphrase/>
+        <ssh_private_key/>
+        <sys_class_name>ssh_private_key_credentials</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 10:49:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22e412cd77263300904ca2183a1061ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 10:49:14</sys_updated_on>
+        <tag/>
+        <type>ssh_private_key</type>
+        <user_name>cmpdev</user_name>
+    </ssh_private_key_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 13:55:46</sys_created_on>
+        <sys_id>c1bf768577223300904ca2183a1061c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vSphereTerraform</sys_name>
+        <sys_package display_value="vSphereAutomationData" source="sn_vspheretest">32ee690177a23300904ca2183a106135</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vSphereAutomationData">32ee690177a23300904ca2183a106135</sys_scope>
+        <sys_update_name>sys_metadata_link_c1bf768577223300904ca2183a1061c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 13:55:46</sys_updated_on>
+        <tablename>discovery_credentials</tablename>
+    </sys_metadata_link>
+</record_update>
