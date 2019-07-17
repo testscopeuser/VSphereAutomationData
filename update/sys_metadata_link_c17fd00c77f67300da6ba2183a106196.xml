@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8c988c4077f67300da6ba2183a10616d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_terraform_tf_provider">
+    <sn_cmp_terraform_tf_provider action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <base_dir>/home/cmpdev/vspheretesting</base_dir>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <credential display_value="vSphereTerraform">22e412cd77263300904ca2183a1061ac</credential>
+        <delivery_date/>
+        <department/>
+        <discovery_source>ServiceNow</discovery_source>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered>2019-07-17 08:17:55</first_discovered>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_default>false</is_default>
+        <justification/>
+        <last_discovered>2019-07-17 08:17:55</last_discovered>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>vsphereCCP</name>
+        <object_id>953000</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <organization/>
+        <owned_by/>
+        <po_number/>
+        <provider display_value="Terraform Environment">d879c22a73fb2300c5a4d65ee2f6a7a6</provider>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <server_type>1</server_type>
+        <service_category display_value="Config Management">731f86900b2322004b1b812f15673ade</service_category>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>sn_cmp_terraform_tf_provider</sys_class_name>
+        <sys_class_path>/!!/$#/!!/!(</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-17 08:17:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c988c4077f67300da6ba2183a10616d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-17 08:17:55</sys_updated_on>
+        <unverified>false</unverified>
+        <url>10.198.1.54</url>
+        <vendor/>
+        <version>1.0.0</version>
+        <warranty_expiration/>
+    </sn_cmp_terraform_tf_provider>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-17 09:57:23</sys_created_on>
+        <sys_id>c17fd00c77f67300da6ba2183a106196</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vsphereCCP</sys_name>
+        <sys_package display_value="vSphereAutomationData" source="sn_vspheretest">32ee690177a23300904ca2183a106135</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vSphereAutomationData">32ee690177a23300904ca2183a106135</sys_scope>
+        <sys_update_name>sys_metadata_link_c17fd00c77f67300da6ba2183a106196</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-17 09:57:23</sys_updated_on>
+        <tablename>sn_cmp_wl_cfg_mgmt_provider</tablename>
+    </sys_metadata_link>
+</record_update>
